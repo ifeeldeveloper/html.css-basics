@@ -228,11 +228,21 @@ A browser does not display the HTML tags, but uses them to determine how to disp
 Note:
 The content inside the "body" section will be displayed in a browser.
 
+    <body> 
+
+    Example:
     <body>
+        <h2>This is heading.</h2>
+        <p>This is paragraph.</p>
+    </body>
 
 The content inside the "title" element will be shown in the browser's title bar or in the page's tab.
 
-    <title>
+    <title> 
+
+    Example:
+    <title> HTML CSS Basics</title>
+
 
 # HTML History
 
